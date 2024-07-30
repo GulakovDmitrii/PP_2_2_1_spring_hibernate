@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e837c781-83cc-480f-b462-e43839d6b283" name="Changes" comment="V1 with Errors" />
+    <list default="true" id="e837c781-83cc-480f-b462-e43839d6b283" name="Changes" comment="V1 without getUserByCar">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="v2.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2jxmBHaIE2tOhwzniy5UqyWNvjZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +48,10 @@
     "Application.MainApp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "v2.1.1",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/дмитрий/OneDrive/Документы/GitHub/PP_2_2_1_spring_hibernate_my",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +82,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722336964723</updated>
-      <workItem from="1722336965829" duration="20678000" />
+      <workItem from="1722336965829" duration="21490000" />
     </task>
     <task id="LOCAL-00001" summary="V1 with Errors">
       <option name="closed" value="true" />
@@ -97,7 +111,63 @@
       <option name="project" value="LOCAL" />
       <updated>1722350072813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358659245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358659245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358670128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358670128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358708693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358708693</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358713773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358713773</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358715143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358715143</updated>
+    </task>
+    <task id="LOCAL-00007" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358721349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358721349</updated>
+    </task>
+    <task id="LOCAL-00008" summary="V1 without getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722358845781</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722358845781</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +184,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -128,7 +198,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1 with Errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1 with Errors" />
+    <MESSAGE value="V1 without getUserByCar" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 without getUserByCar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
