@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e837c781-83cc-480f-b462-e43839d6b283" name="Changes" comment="V1 without getUserByCar">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
-    </list>
+    <list default="true" id="e837c781-83cc-480f-b462-e43839d6b283" name="Changes" comment="V2 with getUserByCar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -101,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722336964723</updated>
-      <workItem from="1722336965829" duration="21490000" />
+      <workItem from="1722336965829" duration="22044000" />
     </task>
     <task id="LOCAL-00001" summary="V1 with Errors">
       <option name="closed" value="true" />
@@ -167,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722358845781</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="V2 with getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722359748423</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722359748423</updated>
+    </task>
+    <task id="LOCAL-00010" summary="V2 with getUserByCar">
+      <option name="closed" value="true" />
+      <created>1722359824537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722359824537</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +196,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="v2.1.1" />
                       </list>
                     </value>
                   </entry>
@@ -199,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1 with Errors" />
     <MESSAGE value="V1 without getUserByCar" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1 without getUserByCar" />
+    <MESSAGE value="V2 with getUserByCar" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2 with getUserByCar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
